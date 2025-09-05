@@ -1,0 +1,69 @@
+{
+    "tickets": [
+        {
+            "ticket_id": "T1",
+            "title": "System crash on login",
+            "priority": "high",
+            "status": "open",
+            "parent": null
+        },
+        {
+            "ticket_id": "T2",
+            "title": "Password reset issue",
+            "priority": "normal",
+            "status": "open",
+            "parent": null
+        },
+        {
+            "ticket_id": "T3",
+            "title": "Database connection error",
+            "priority": "high",
+            "status": "closed",
+            "parent": null
+        },
+        {
+            "ticket_id": "T4",
+            "title": "UI bug in dashboard",
+            "priority": "normal",
+            "status": "open",
+            "parent": "T1"
+        },
+        {
+            "ticket_id": "T10",
+            "title": "Test bug",
+            "priority": "high",
+            "status": "open",
+            "parent": null
+        },
+        {
+            "ticket_id": "T100",
+            "title": "Critical server downtime",
+            "priority": "high",
+            "status": "open",
+            "parent": null
+        },
+        {
+            "ticket_id": "T20",
+            "title": "Critical server",
+            "priority": "high",
+            "status": "open",
+            "parent": null
+        }
+    ],
+    "history": [
+        "Created Ticket T1",
+        "Created Ticket T2",
+        "Created Ticket T3",
+        "Created Ticket T4",
+        "Processed Ticket T3",
+        "Created Ticket T10",
+        "Processed Ticket T1",
+        "Undo reopen on Ticket T1",
+        "Created Ticket T100",
+        "Processed Ticket T1",
+        "Undo reopen on Ticket T1",
+        "Created Ticket T20",
+        "Processed Ticket T1",
+        "Undo reopen on Ticket T1"
+    ]
+}
