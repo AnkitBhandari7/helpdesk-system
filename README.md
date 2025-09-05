@@ -1,9 +1,7 @@
 
 # 🎟️ Interactive Help Desk Ticket System
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  ![DSA](https://img.shields.io/badge/Data%20Structures-Stack%2C%20Queue%2C%20Heap%2C%20Linked%20List-orange)  
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  ![DSA](https://img.shields.io/badge/Data%20Structures-Stack%2C%20Queue%2C%20Heap%2C%20Linked%20List-orange) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 > 📌 A **Command-Line Help Desk Ticket Management System** built in Python as a **DSA project**.  
 > Demonstrates **real-world ticket management** with **Data Structures & Algorithms** such as Stack, Queue, Priority Queue, Linked List, Recursion, and 2D Lists.  
@@ -46,6 +44,7 @@
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/your-username/helpdesk-system.git
+
 cd helpdesk-system
 
 2️⃣ Install Dependencies
