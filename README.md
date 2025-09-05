@@ -1,8 +1,7 @@
 
 # 🎟️ Interactive Help Desk Ticket System
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
-![DSA](https://img.shields.io/badge/Data%20Structures-Stack%2C%20Queue%2C%20Heap%2C%20Linked%20List-orange)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  ![DSA](https://img.shields.io/badge/Data%20Structures-Stack%2C%20Queue%2C%20Heap%2C%20Linked%20List-orange)  
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
